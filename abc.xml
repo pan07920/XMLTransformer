@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<abc xmlns="ddn:cns-org:v5">
+  <section>
+    <title>PREOPERATIVE DIAGNOSIS  </title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph>
+        <content>__ c</content>
+        <content>ataract.</content>
+      </paragraph>
+    </text>
+  </section>
+  <section>
+    <title>POSTOPERATIVE DIAGNOSIS</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph>
+        <content>__ c</content>
+        <content>ataract.</content>
+      </paragraph>
+    </text>
+  </section>
+  <section>
+    <title>OPERATION</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph>
+        <content>
+          Pars plana vitrectomy
+          and epiretinal membrane removal. Phacoemulsification with posterior
+          chamber lens implant __(Control #
+        </content>
+        <content>__</content>
+        <content>) </content>
+      </paragraph>
+    </text>
+  </section>
+  <section>
+    <title>SURGEON</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph>
+        <content>
+          Dr. J. R. xxx
+        </content>
+      </paragraph>
+    </text>
+  </section>
+  <section>
+    <title>DOCTORS IN ATTENDANCE</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph />
+    </text>
+  </section>
+  <section>
+    <title>ANESTHETIST</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph />
+    </text>
+  </section>
+  <section>
+    <title>ANESTHESIA</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph />
+    </text>
+  </section>
+  <section>
+    <title>CLINICAL NOTE</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph />
+    </text>
+  </section>
+  <section>
+    <title>OPERATIVE PROCEDURE</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph>
+        <content>
+          Topical sterilization,
+          anesthesia and dilatation were carried out in the Day Surgery Unit
+          before the patient was brought to the Operating room.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          The patient was
+          prepared with Proviodine. The patient was then draped. Special
+          attention was directed to the eyelids/lashes, prepping and draping.
+          A speculum was inserted into the fornices of the
+        </content>
+        <content> __</content>
+        <content>
+          eye. Subconjunctival
+          Xylocaine was given. A small conjunctival peritomy was made in the
+          area of the subconjunctival injection. Three cc of 2% Xylocaine and
+          0.75% Marcaine were injected into the sub-Tenon's space through the
+          peritomy.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          A paracentesis was
+          performed superiorly and inferiorly. Intraocular nonpreserved
+          Xylocaine was used. A viscoelastic was injected into the anterior
+          chamber. The eye was entered with a 3 mm keratome. The anterior
+          capsulectomy was done under a viscoelastic. Hydrodissection and
+          delineation of the nucleus was carried out. The
+          phaco-emulsification was initiated. The phacoemulsification time
+          was
+        </content>
+        <content>__</content>
+        <content>
+          seconds. At the
+          completion of the phacoemulsification, the cortical material was
+          irrigated and aspirated from the eye. The posterior capsule was
+          polished. The intraocular lens was inserted under a viscoelastic.
+          The intraocular lens power was __ diopters.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          The lens was the dialed
+          into position with the lens pick. Irrigation and aspiration of the
+          viscoelastic was then carried out. The wound was tested to ensure
+          that there was no wound leak.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          Additional periglobal
+          anesthesia of 2% Xylocaine and 0.75% Marcaine was injected into the
+          sub-Tenon's space through the peritomy.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          The 25-gauge cannulas
+          were then placed inferotemporal, supratemporal and supranasally. In
+          the infratemporal cannula an infusion placed.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          A vitrectomy was then
+          carried out.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          __ (Dr. xxx will
+          refer to this area as an "open paragraph
+        </content>
+        <content>"</content>
+        <content>
+          - DELETE THIS
+          INFORMATION
+        </content>
+        <content>)</content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          At the completion of
+          the vitrectomy, the peripheral retina was reinspected to ensure
+          there was no untreated peripheral retinal tears or detachment. The
+          cannulas were removed. The scleral wounds inspected and if a wound
+          leak was identified, then this was closed with 9-0 Vicryl suture.
+          Otherwise interrupted 9-0 Vicryl sutures were placed.
+          Subconjunctival Decadron and cefuroxime were given.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          A patch and shield
+          applied.
+        </content>
+      </paragraph>
+      <paragraph />
+      <paragraph>
+        <content>
+          The patient left the
+          Operating Room in satisfactory condition.
+        </content>
+      </paragraph>
+    </text>
+  </section>
+  <section>
+    <title>ADDENDUM</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph />
+    </text>
+  </section>
+  <section>
+    <title>POSTOPERATIVE TOPICAL EYE DROPS</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph>
+        <content>1. Maxidex.</content>
+      </paragraph>
+      <paragraph>
+        <content>2. Nevanac.</content>
+      </paragraph>
+      <paragraph>
+        <content>3. Vigamox.</content>
+      </paragraph>
+    </text>
+  </section>
+  <section>
+    <title>POSTOPERATIVE FOLLOWUP</title>
+    <code code="0" cs="12.222" csn="CSN" />
+    <text>
+      <paragraph>
+        <content>__</content>
+      </paragraph>
+    </text>
+  </section>
+</abc>
